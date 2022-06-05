@@ -1,0 +1,5 @@
+1. https://www.cisa.gov/stopransomware/ransomware-101
+2. https://www.coresecurity.com/blog/why-do-ransomware-attacks-keep-happening
+3. https://www.crowdstrike.com/cybersecurity-101/mitre-attack-framework/
+4. https://www.cisa.gov/stopransomware/ransomware-101
+5. https://www.f5.com/labs/articles/education/mitre-attack-what-it-is-how-it-works-who-uses-it-and-why
