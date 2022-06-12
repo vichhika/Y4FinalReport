@@ -3,3 +3,5 @@
 3. https://www.crowdstrike.com/cybersecurity-101/mitre-attack-framework/
 4. https://www.cisa.gov/stopransomware/ransomware-101
 5. https://www.f5.com/labs/articles/education/mitre-attack-what-it-is-how-it-works-who-uses-it-and-why
+6. https://www.crowdstrike.com/cybersecurity-101/mitre-attack-framework/
+7. https://www.nist.gov/cyberframework
